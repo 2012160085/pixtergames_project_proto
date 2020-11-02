@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ActonAttack : Action
 {
-    private Dictionary<string, string> attackInfo;
+    private Skill skill;
+    
 
 }
